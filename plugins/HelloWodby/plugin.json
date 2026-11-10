@@ -1,8 +1,0 @@
-{
-  "name": "HelloWodby",
-  "description": "Test plugin for the Wodby plugin build",
-  "version": "0.1.0",
-  "require": {
-    "matomo": ">=5.0.0-b1,<6.0.0-b1"
-  }
-}
